@@ -1,7 +1,7 @@
 node_modules
-src/.env
 tmp/*
 !tmp/.gitkeep
 uploads/*
 .DS_Store
 yarn.lock
+*.rb
